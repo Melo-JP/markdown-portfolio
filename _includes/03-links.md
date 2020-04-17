@@ -1,2 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
-https://www.instagram.com/paulmelvinj/
+![Image of Melo-JP] (https://www.instagram.com/paulmelvinj/)
